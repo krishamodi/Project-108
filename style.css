@@ -1,0 +1,41 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    background-image: url(splash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header_div{
+    background-color: beige;
+    color:black;
+
+}
+
+.header_div p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;    
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.main_div button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 125px;
+    font-weight: 500;
+    background-color: bisque;
+    color: black;
+    margin-top: 30px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: blueviolet;
+    font-size: 15px;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: bisque;
+    text-shadow:3px 3px 3px rgb(red, green, blue);
+}
